@@ -37,7 +37,7 @@ set.seed(1234)
 # number of rows with missing data
 narows <- sum(is.na(heart))
 nrow(heart)
-#remove all with na
+#remove all with na's
 heart <- na.omit(heart)
 
 
