@@ -1,5 +1,7 @@
 #Allan Tan
 #December 9, 2021
+#DSCI 100
+
 #load all packages
 library(tidymodels)
 library(tidyverse)
