@@ -1,9 +1,9 @@
 #Allan Tan
+#December 9, 2021
 #load all packages
 library(tidymodels)
 library(tidyverse)
 library(repr)
-
 
 #read csv file that is downloaded from UCI
 
